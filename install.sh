@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
   echo -e "ᴡʜᴀᴛsᴀᴘᴘ :"
-  echo -e "+6282138079249"
+  echo -e "+62 822-4136-0392"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@ʀᴇᴠxᴢᴢ"
+  echo -e "@Bar"
   sleep 4
   clear
 }
