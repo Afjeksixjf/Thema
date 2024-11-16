@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © REVXZ OFFC                   [+]${NC}"
+  echo -e "${BLUE}[+]                  © BarMods                      [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -62,14 +62,14 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "Revxzoffc" ]; then
+  if [ "$USER_TOKEN" = "barsukangen" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke Revzz${NC}"
-    echo -e "${YELLOW}TELEGRAM : @Revxz1${NC}"
-    echo -e "${YELLOW}WHATSAPP : 6282138079249${NC}"
+    echo -e "${GREEN}Buy dulu Gih Ke bar${NC}"
+    echo -e "${YELLOW}TELEGRAM : @BarHostingvps${NC}"
+    echo -e "${YELLOW}WHATSAPP : +6282241360392${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©Revxz${NC}"
+    echo -e "${YELLOW}©Bar${NC}"
     exit 1
   fi
   clear
@@ -510,10 +510,10 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer ArdXRyz   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Barmods   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : Revxzoffc   ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Revxz offc   ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : BarHostingvps${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : 6282241360392${NC}"
   echo -e "${RED} ggg.    '.'''ggggggp           • Support by Orang tua    ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
